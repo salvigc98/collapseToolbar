@@ -12,7 +12,7 @@
         android:title="Más información"
         app:showAsAction="collapseActionView" />
     <item
-        android:id="@+id/text_color"
+        android:id="@+id/action_plus"
         android:title="Ajustes"
         app:showAsAction="ifRoom"
         android:icon="@drawable/ic_queue_black_24dp"
